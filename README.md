@@ -14,7 +14,7 @@
 
 ### 🛠️ CURRENT_TOOLBOX (Learning Path)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,linux,bash,git,github,vscode,arduino,svg,java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,python,linux,bash,git,github,vscode,arduino,java" />
 </p>
 
 ---
